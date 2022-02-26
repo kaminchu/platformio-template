@@ -30,3 +30,5 @@ pio device monitor -b <bps>
 pio run -t upload
 ```
 
+usbの権限周り参考
+https://docs.platformio.org/en/latest//faq.html#platformio-udev-rules
